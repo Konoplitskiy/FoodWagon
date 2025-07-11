@@ -92,7 +92,7 @@
     display: flex;
     width: 100%;
     justify-content: space-around;
-    background-image: url("./images/section.png");
+    background-image: url("../images/section.png");
 }
 
 .input {
