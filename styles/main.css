@@ -95,12 +95,7 @@
         display: none;
     }
 
-    .drop:hover {
-        display: block;
-        position: absolute;
-        background-color: black;
-       
-    }
+
 }
 
 .address {
