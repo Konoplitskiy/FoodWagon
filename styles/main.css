@@ -59,7 +59,7 @@
     display: none;
 }
 
-@media (max-width:1000px) {
+@media (max-width:700px) {
     .nav-btn-header {
         font-size: 2em;
         border-radius: 8px;    
@@ -205,6 +205,11 @@
 }
 
 
+.main-adres-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
 
 .text-address {
     flex-direction: column;
