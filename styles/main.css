@@ -1001,8 +1001,6 @@ a {
     display: flex;
     justify-content: flex-end;
     flex-direction: column;
-    width:483px ;
-    height:254px ;
     gap: 40px;
 }
 
@@ -1041,7 +1039,7 @@ a {
     display: flex;
     background: #424242;
     border-radius: 8px;
-    width:334px ;
+    width:100% ;
     height: 60px;
     outline: none;
     font-size: 18px;
@@ -1058,7 +1056,7 @@ a {
     justify-content: center;
     color: white;
     background: linear-gradient(to right,#FFB800,#FF8A00);
-    width: 133px;
+    width: 100%;
     height: 60px;
     border-radius: 8px;
     gap: 10px;
