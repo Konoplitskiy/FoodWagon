@@ -810,14 +810,13 @@
     flex-direction: column;
     gap: 50px;
     padding: 20px;
-    width: 30%;
+    width: 34%;
 }
 
 .txtbestdeals {
     color: black;
     font-size: 43px;
     font-weight: bold;
-    height: 106px;
 }
 
 .bestdealscolor {
@@ -828,7 +827,6 @@
     color: rgba(97, 97, 97, 0.69);
     font-size: 18px;
     font-weight: bold;
-    height: 75px;
 
 }
 
