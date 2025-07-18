@@ -956,19 +956,18 @@ a {
 
 .footerlist1 {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
-    height: 433px;
-    margin-left: 190px;
-    padding: 30px;
+    justify-content: space-around;
     margin-top: 115px;
 
 }
 
 .cont1 {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     gap: 90px;
 }
 
