@@ -1,8 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100vw;
+
+}
+
+
 .header {
     display: flex;
     width: 100%;
     justify-content: space-around;
     padding: 20px;
+    box-sizing: border-box;
 }
 
 .location {
@@ -87,7 +97,7 @@
         width: 100px;
     }
     
-    .image-search>img {
+    .image-search>img{
         display: none;
     }
 
@@ -96,6 +106,10 @@
         flex-wrap: wrap;
     }
 
+
+    .image-maindisc {
+        padding: 30px;
+    }
 
 }
 
