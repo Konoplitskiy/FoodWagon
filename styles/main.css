@@ -97,7 +97,10 @@ body {
         width: 100px;
     }
     
-  
+    .logo {
+        max-width: 100%;
+        justify-content: space-around;
+    }
 
     .phone-section>img {
         max-width: 100%;
@@ -1030,6 +1033,7 @@ a {
     justify-content: flex-end;
     flex-direction: column;
     gap: 40px;
+    padding: 20px;
 }
 
 .Follow-us {
